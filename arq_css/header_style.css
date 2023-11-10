@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.introduction {
+  padding: 0;
+  margin: 0;
+  display: flow-root;
+  background-image: url(img-background/bg-hero-mobile.svg);
+  background-repeat: repeat-x;
+  background-color: #edfbfe;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 50px 80px 80px 80px;
+  align-items: center;
+}
+
+.logo_huddle {
+  width: 180px;
+}
+
+.button_try {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  background-color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 13px 60px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px #cbcbcb;
+}
