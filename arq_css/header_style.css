@@ -3,13 +3,13 @@ body {
   padding: 0;
 }
 
-.introduction {
+.part_one {
   padding: 0;
   margin: 0;
   display: flow-root;
-  background-image: url(img-background/bg-hero-mobile.svg);
   background-repeat: repeat-x;
   background-color: #edfbfe;
+  background-image: url(../img-background/bg-hero-desktop.svg);
 }
 
 .header {
