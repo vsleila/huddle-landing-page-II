@@ -35,3 +35,50 @@
   display: flow-root;
   background-color: #00252e;
 }
+
+.logo_huddle {
+  margin-top: 150px;
+  margin-left: 80px;
+  margin-bottom: 50px;
+}
+
+.contacts {
+  margin-left: 80px;
+  color: white;
+  display: flex;
+  width: 480px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 25px;
+}
+
+.location {
+  align-items: flex-start;
+}
+
+.paragraph_info {
+  margin: 0;
+  margin-left: 30px;
+  padding: 0;
+  cursor: pointer;
+  width: auto;
+}
+
+.symbol {
+  width: 20px;
+}
+
+.two {
+  display: flex;
+}
+
+.contacts_two {
+  color: white;
+  width: 480px;
+  display: inline-block;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 50px;
+}
